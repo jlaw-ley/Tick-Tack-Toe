@@ -1,3 +1,0 @@
-C:\Users\leyso\OneDrive\Desktop\RRL_TicTacToe_Final\RRL_TicT.6B2D0CEC\x64\Debug\RRL_TicTacToe_Final.vcxproj.AssemblyReference.cache
-C:\Users\leyso\OneDrive\Desktop\RRL_TicTacToe_Final\RRL_TicT.6B2D0CEC\x64\Debug\RRLTicTacToeFinal.TicTacToe.resources
-C:\Users\leyso\OneDrive\Desktop\RRL_TicTacToe_Final\RRL_TicT.6B2D0CEC\x64\Debug\RRL_TicTacToe_Final.vcxproj.GenerateResource.cache
